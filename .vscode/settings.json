@@ -1,0 +1,19 @@
+{
+  "emmet.includeLanguages": {
+    "typescript": "typescriptreact",
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "explorer.sortOrder": "type",
+  "editor.cursorBlinking": "smooth",
+  "files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.mouseWheelZoom": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "breadcrumbs.enabled": true,
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "toggle"
+}
